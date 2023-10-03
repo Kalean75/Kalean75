@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kalean75&theme=dracula )](https://github.com/Kalan75/github-readme-stats)
+
 <!--
 **Kalean75/Kalean75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
